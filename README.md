@@ -12,11 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##This project is a simple yet effective demonstration of how to integrate real-world data using a public API (OpenWeatherMap) and convert it into meaningful visual insights using Python's data visualization 
-
-libraries. The idea was born from the need to simplify how we understand multi-day weather trends — particularly for use cases such as smart irrigation systems, travel planning, climate analysis, and educational 
-
-visualization.
+## This project is a simple yet effective demonstration of how to integrate real-world data using a public API (OpenWeatherMap) and convert it into meaningful visual insights using Python's data visualization libraries. The idea was born from the need to simplify how we understand multi-day weather trends — particularly for use cases such as smart irrigation systems, travel planning, climate analysis, and educational visualization.
 
 The application retrieves 5-day weather forecast data for any specified city and displays two key metrics — temperature and humidity — over time. By transforming raw JSON data into readable plots, it enhances 
 
@@ -92,7 +88,7 @@ python weather_dashboard.py
 
 **Screenshot Preview**
 
-
+![Image](https://github.com/user-attachments/assets/9daeb4ec-368f-4276-b500-08ffd4fa4f1d)
 
 **Use Cases**
  
