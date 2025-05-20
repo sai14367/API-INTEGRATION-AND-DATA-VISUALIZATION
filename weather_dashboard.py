@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 API_KEY = '4227708c05dcb910661f68eb04c9b431'
-CITY = 'Mumbai,IN'
+CITY = 'Vijayawada,IN'
 
 
 URL = f'https://api.openweathermap.org/data/2.5/forecast?q={CITY}&appid={API_KEY}&units=metric'
