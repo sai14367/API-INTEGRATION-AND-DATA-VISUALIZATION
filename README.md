@@ -122,7 +122,7 @@ The graphs are color-coded, neatly styled with Seaborn, and have clear x/y-axis 
 ---
 **Screenshot Preview**
 
-
+![Image](https://github.com/user-attachments/assets/6386d025-fea0-4b39-a276-559fe9b4cf88)
 
 ##  Sample Use Cases
 
